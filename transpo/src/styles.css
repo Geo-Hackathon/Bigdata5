@@ -11,6 +11,7 @@ img {
 
 header {
     border: 3px solid #3498db;
+    border-radius: 20px;
     background-color: #34db74;
     color: #ffffff;
     text-align: center;
@@ -26,15 +27,15 @@ footer {
     background-color: #34495e;
     color: #ffffff;
     text-align: center;
-    margin-top: 4%;
     padding-bottom: 20px;
+    padding-top: 20px;
     border-top: 3px;
     clear: both;
 }
 
 .menu-container {
     display: flex;
-    height: 100vh;
+    height: 100%;
 }
 
 nav {
